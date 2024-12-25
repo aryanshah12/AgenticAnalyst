@@ -1,2 +1,11 @@
-# AgenticAnalyst
-Help generate Investment memo's and conduct light diligence. As of right now it helps support a competitive landscape.
+source myenv/bin/activate
+Install Updated Dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the Streamlit App:
+
+bash
+Copy code
+streamlit run app.py
